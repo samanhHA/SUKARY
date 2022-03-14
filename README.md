@@ -1,0 +1,2 @@
+# SUKARY
+he main goal is to build an application that serves children with diabetes. Our application Sukary aims to facilitate dealing with children with diabetes, as well as motivate and encourage them to compete among themselves by collecting the most points per month to reward them with a prize according to their scores. We also aim to raise awareness and educate children about diabetes and give them a place where they can find help and support.
